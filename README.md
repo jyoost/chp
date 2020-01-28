@@ -1,4 +1,7 @@
 #### CHP
+
+I forked this project in an attempt to update the documentation with my experience to install, also update dependencies. I am by no means a clojure expert yet!  I think this project is great!
+
 ClojureHomePage is a Clojure Web Framework that provides the following.
 
 
