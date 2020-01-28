@@ -1,4 +1,4 @@
-#### CHP [![endorse](https://api.coderwall.com/runexec/endorsecount.png)](https://coderwall.com/runexec)
+#### CHP
 ClojureHomePage is a Clojure Web Framework that provides the following.
 
 
